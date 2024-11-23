@@ -13,7 +13,7 @@ La documentació [documentació es pot trobar en PDF](https://github.com/maynej/
 Descripció         | Imatge          | Arxiu PDF    
 ------------- | ------------- | ------------- 
 Motor WeDo 1 |![](Imatges/Motor1.jpg) | [Manual Motor Wedo1](DOC_CAT/ReparacioMotorsWeDo1_CAT.pdf)
-Hub |![](Imatges/Hub.jpg) | [Manual Hub](DOC_CAT/ReparacioHub1LEGO.pdf) 
+Hub |![](Imatges/Hub.jpg) | [Manual Hub](DOC_CAT/ReparacioHub1LEGO_CAT.pdf) 
 
 ## Reparació WeDo2
 
