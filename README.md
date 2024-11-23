@@ -6,7 +6,7 @@ L'objectiu es poder reparar elements elèctrics de LEGO sense gaires necessitats
 
 Realitzat per [Jordi Mayné](https://github.com/maynej) des de Mechatronic Study jordi.mayne@mechatronicstudy.com <img src="Imatges/Logo3senseFons.png" width="50" />
 
-La documentació en llengua castellana en PDF es pot trobar en (https://github.com/maynej/Reparacio-Equipament-Lego/tree/main/DOC_ESP) 
+La documentació [documentació es pot trobar en PDF] (https://github.com/maynej/Reparacio-Equipament-Lego/tree/main/DOC_ESP) 
 
 ## Reparació WeDo1
 
