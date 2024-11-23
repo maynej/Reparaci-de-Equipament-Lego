@@ -12,20 +12,20 @@ La documentació [documentació es pot trobar en PDF](https://github.com/maynej/
 
 Descripció         | Imatge          | Arxiu PDF    
 ------------- | ------------- | ------------- 
-Motor WeDo 1 |![](Imatges/Motor1.jpg) | [Manual Motor Wedo1](DOC_CAT/ReparacioMotorWeDo1.pdf)
+Motor WeDo 1 |![](Imatges/Motor1.jpg) | [Manual Motor Wedo1](DOC_CAT/ReparacioMotorWeDo1_CAT.pdf)
 Hub |![](Imatges/Hub.jpg) | [Manual Hub](DOC_CAT/ReparacioHub1.pdf) 
 
 ## Reparació WeDo2
 
 Descripció         | Imatge          | Arxiu PDF    
 ------------- | ------------- | ------------- 
-Motor WeDo 2 |![](Imatges/Motor2.jpg) | [Manual Motor Wedo2](DOC_CAT/ReparacioMotorWeDo2.pdf)
+Motor WeDo 2 |![](Imatges/Motor2.jpg) | [Manual Motor Wedo2](DOC_CAT/ReparacioMotorWeDo2_CAT.pdf)
 
 ## Reparació Spike
 
 Descripció         | Imatge          | Arxiu PDF    
 ------------- | ------------- | ------------- 
-Motor Spike |![](Imatges/Motor2.jpg) | [Manual Motor Wedo2](DOC_CAT/ReparacioMotorWeDo2.pdf)
+Motor Spike |![](Imatges/Spike.jpg) | [Manual Motor Wedo2](DOC_CAT/ReparacioSpike_CAT.pdf)
 
 ## Llicéncia
 
