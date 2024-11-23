@@ -11,7 +11,7 @@ La documentació en llengua castellana en PDF es pot trobar en (https://github.c
 Descripció         | Imatge          | Arxiu PDF    
 ------------- | ------------- | ------------- 
 Motor DC |![](Imatges/Motor1.png) | [Manual Motor Wedo1](DOC_CAT/ReparacioMotorWeDo1.pdf)
-Hub |![](Imatges/Hub.png) | [Bolígraf 3D](DOC_CAT/ReparacioHub1.pdf) 
+Lego Connector |![](Imatges/Hub.png) | [Bolígraf 3D](DOC_CAT/ReparacioHub1.pdf) 
 
 ## WeDo2
 
