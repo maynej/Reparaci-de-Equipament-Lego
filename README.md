@@ -18,3 +18,11 @@ Hub |![](Imatges/Hub.png) | [Bolígraf 3D](DOC_CAT/ReparacioHub1.pdf)
 Descripció         | Imatge          | Arxiu PDF    
 ------------- | ------------- | ------------- 
 Motor DC |![](Imatges/Motor2.png) | [Manual Motor Wedo2](DOC_CAT/ReparacioMotorWeDo2.pdf)
+
+## Llicéncia
+
+Creative Commons Attribution-NoComercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)  <img src="Imatges/CC.png" width="100" />
+
+## QR
+
+https://www.codigos-qr.com/qr/php/qr_img.php?d=https%3A%2F%2Fgithub.com%2Fmaynej%2FReparacio-Equipament-Lego&s=6&e=m
