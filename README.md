@@ -25,7 +25,7 @@ Motor WeDo 2 |![](Imatges/Motor2.jpg) | [Manual Motor Wedo2](DOC_CAT/ReparacioMo
 
 Descripció         | Imatge          | Arxiu PDF    
 ------------- | ------------- | ------------- 
-Motor Spike |![](Imatges/Spike.jpg) | [Manual Motor Wedo2](DOC_CAT/ReparacioSpike_CAT.pdf)
+Motor Spike |![](Imatges/MotorSpike.jpg) | [Manual Motor Wedo2](DOC_CAT/ReparacioSpike_CAT.pdf)
 
 ## Llicéncia
 
