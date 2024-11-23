@@ -2,7 +2,7 @@
 
 L'objectiu es poder reparar elements elèctrics de LEGO sense gaires necessitats tècniques. 
 
-<img src="Imatges/MotorWedo.png" width="400" />
+<img src="Imatges/MotorWedo.jpg" width="400" />
 
 Realitzat per [Jordi Mayné](https://github.com/maynej) des de Mechatronic Study jordi.mayne@mechatronicstudy.com <img src="Imatges/Logo3senseFons.png" width="50" />
 
@@ -12,14 +12,14 @@ La documentació en llengua castellana en PDF es pot trobar en (https://github.c
 
 Descripció         | Imatge          | Arxiu PDF    
 ------------- | ------------- | ------------- 
-Motor DC |![](Imatges/Motor1.png) | [Manual Motor Wedo1](DOC_CAT/ReparacioMotorWeDo1.pdf)
-Hub |![](Imatges/Hub.jpg) | [Bolígraf 3D](DOC_CAT/ReparacioHub1.pdf) 
+Motor DC |![](Imatges/Motor1.jpg) | [Manual Motor Wedo1](DOC_CAT/ReparacioMotorWeDo1.pdf)
+Hub |![](Imatges/Hub.jpg) | [Manual Hub](DOC_CAT/ReparacioHub1.pdf) 
 
 ## Reparació WeDo2
 
 Descripció         | Imatge          | Arxiu PDF    
 ------------- | ------------- | ------------- 
-Motor DC |![](Imatges/Motor2.png) | [Manual Motor Wedo2](DOC_CAT/ReparacioMotorWeDo2.pdf)
+Motor DC |![](Imatges/Motor2.jpg) | [Manual Motor Wedo2](DOC_CAT/ReparacioMotorWeDo2.pdf)
 
 ## Llicéncia
 
